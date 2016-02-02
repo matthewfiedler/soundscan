@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  upc: MyString
+  qty: 1
+  date: 2016-02-01 19:34:19
+
+two:
+  upc: MyString
+  qty: 1
+  date: 2016-02-01 19:34:19
